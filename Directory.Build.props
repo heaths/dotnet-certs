@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Certs</RootNamespace>
+  </PropertyGroup>
+</Project>
